@@ -1,4 +1,4 @@
-FROM 27-ea-17-jdk-oracle
+FROM amazoncorretto:17-alpine-jdk
 
 WORKDIR /app
 
