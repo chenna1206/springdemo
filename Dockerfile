@@ -1,4 +1,4 @@
-FROM public.ecr.aws/amazoncorretto/amazoncorretto:17-alpine
+FROM 27-ea-17-jdk-oracle
 
 WORKDIR /app
 
