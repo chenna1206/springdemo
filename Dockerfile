@@ -1,4 +1,4 @@
-FROM eclipse-temurin:17-jre
+FROM public.ecr.aws/amazoncorretto/17
 
 WORKDIR /app
 
